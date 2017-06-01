@@ -1,1 +1,28 @@
 
+
+.head {
+	width: 100%;
+	position:absolute;
+	margin-top: 400px;
+	font-size: 50px;
+	color: white;
+	font-weight: bold;
+}
+
+.mySlides {
+	display: none;
+	float: left;
+	margin-right: 5%;
+}
+
+p {
+		padding: 20px;
+		font-size: 18px;
+	}
+	
+.topfoot {
+	margin-top: 150px;
+	background-color:black;
+	opacity:.65;
+	padding: 30px;;
+}
