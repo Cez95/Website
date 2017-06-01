@@ -1,1 +1,21 @@
 
+
+.head {
+	width: 100%;
+	position:absolute;
+	margin-top: 250px;
+	font-size: 50px;
+	color: white;
+	font-weight: bold;
+}
+
+.school {
+	width: 100%;
+}
+
+.topfoot {
+	margin-top: 150px;
+	background-color:black;
+	opacity:.65;
+	padding: 30px;;
+}
